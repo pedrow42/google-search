@@ -1,2 +1,2 @@
 # google-search
-A Google Landing Page using only Html and Css.
+A Google Landing Page using Html and Css, only.
